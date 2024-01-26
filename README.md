@@ -1,5 +1,6 @@
 # SPIR-V Tools
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/KhronosGroup/SPIRV-Tools/badge)](https://securityscorecards.dev/viewer/?uri=github.com/KhronosGroup/SPIRV-Tools)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Tools.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Tools?ref=badge_shield)
 
 NEWS 2023-01-11: Development occurs on the `main` branch.
 
@@ -275,6 +276,9 @@ Contributions via merge request are welcome. Changes should:
   the included [.clang-format](.clang-format) file.
 
 We intend to maintain a linear history on the GitHub `main` branch.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Tools.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Tools?ref=badge_large)
 
 ### Getting the source
 
